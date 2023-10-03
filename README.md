@@ -32,9 +32,5 @@ To compile the client and server code, use the gcc compiler as follows:
 gcc -o client client_code.c
 gcc -o server server_code.c
 
-### Usage
-To start the server:
 ./server
-
-To start the client:
 ./client
